@@ -1,0 +1,181 @@
+id,published_at,title,teaser,html_content,is_news,slug,image_url
+1,2024-05-11 12:13:39+00,Affaldssortering i børnehøjde,"Affaldssortering er en vigtig del af at beskytte vores miljø, og det er aldrig for tidligt at begynde at lære børn om betydningen af korrekt affaldshåndtering. ","<p>Ved at implementere affaldssortering i børnehøjde kan vi både gøre læringsprocessen sjov og effektiv, og samtidig sikre, at de små udvikler gode vaner, der varer livet ud. Her er nogle tips til, hvordan du kan introducere affaldssortering på en måde, der er tilpasset børns niveau og forståelse.</p>
+
+    <h2>1. Gør affaldssortering visuelt og interaktivt</h2>
+    <p>En af de mest effektive måder at lære børn affaldssortering på er ved at gøre det visuelt og interaktivt. Brug farverige affaldsbeholdere, der er tydeligt mærket med billeder og symboler for de forskellige typer affald såsom papir, plast, metal og organisk affald. Børn lærer ofte bedre gennem visuelle hjælpemidler, og det gør det lettere for dem at forstå, hvor hvert stykke affald skal placeres.</p>
+
+    <h2>2. Involver Børnene i Affaldssorteringen</h2>
+    <p>Giv børnene ansvar for deres eget affald ved at lade dem være med til at sortere det. Opret en lille affaldsstation i hjemmet eller i klasselokalet, hvor børnene kan sortere affald i de rigtige containere. Dette kan være en sjov aktivitet, der samtidig lærer dem vigtigheden af korrekt affaldshåndtering. Husk at rose dem for deres indsats og give dem små belønninger for deres gode arbejde.</p>
+
+    <h2>3. Lav Legende Aktiviteter og Spil</h2>
+    <p>Inkluder affaldssortering i lege og aktiviteter for at gøre læring sjov. Lav for eksempel et spil, hvor børnene skal sortere affald så hurtigt som muligt, eller lav en affaldssorteringsjagt, hvor de skal finde og sortere genstande rundt omkring i huset eller skolen. Ved at integrere læring i leg, vil børnene være mere engagerede og opmærksomme.</p>
+
+    <h2>4. Brug Pædagogiske Ressourcer og Apps</h2>
+    <p>Der findes mange pædagogiske ressourcer og apps designet til at lære børn om affaldssortering på en interaktiv måde. Find bøger, videoer og spil, der fokuserer på affaldssortering, og brug dem som en del af undervisningen eller hjemmeaktiviteterne. Disse værktøjer kan hjælpe med at forstærke de koncepter, som børnene lærer i praksis.</p>
+
+    <h2>5. Forklar Hvorfor Affaldssortering Er Vigtigt</h2>
+    <p>Selvom børn måske ikke forstår de komplekse miljømæssige konsekvenser af affaldssortering, er det vigtigt at give dem en grundlæggende forståelse af, hvorfor det er vigtigt. Forklar, hvordan affaldssortering hjælper med at beskytte dyr og planter, og hvordan genbrug og genanvendelse kan spare ressourcer. Hold forklaringerne enkle og relaterbare, så børnene kan forstå betydningen af deres handlinger.</p>
+
+    <h2>6. Gør Affaldssortering til en Del af Hverdagen</h2>
+    <p>For at gøre affaldssortering til en naturlig del af børns liv, skal det integreres i deres daglige rutiner. Lav en vane ud af at sortere affald ved måltider, når du rydder op, og når du er på farten. Når børnene ser affaldssortering som en normal del af deres hverdag, er de mere tilbøjelige til at fortsætte med det som en voksen.</p>
+
+    <h2>Konklusion</h2>
+    <p>Ved at introducere affaldssortering på en sjov og engagerende måde kan vi hjælpe børn med at forstå og værdsætte betydningen af korrekt affaldshåndtering. Gennem visuelle hjælpemidler, interaktive aktiviteter, og enkle forklaringer, kan vi sikre, at børn udvikler gode vaner, der vil gavne både dem og planeten i fremtiden. Så lad os begynde at gøre affaldssortering til en del af børns liv i dag!</p>",true,affaldssortering_i_boernehoejde,https://api.mediehuset.net/images/trashguide/articles/affald-i-boernehoejde.jpg
+2,2024-05-25 12:17:57+00,Dit affald gør en forskel,"Dit affald er fuldt af materialer, der kan bruges igen. Jo mere, du sorterer dit affald, jo mere kan vi spare på Jordens begrænsede ressourcer.","    <h2>Glas</h2>
+    <p>Glas sorteres efter farve og størrelse.</p>
+    <p>Større glasstykker kan genanvendes til nyt glas. Det kræver syv gange så meget energi at skabe nyt glas af sand som at genanvende glas.</p>
+    <p>Små glasskår kan bruges i anlægsarbejde i stedet for sand, grus og granit.</p>
+
+    <h2>Metal</h2>
+    <p>Metal sorteres bl.a. i jern og aluminium.</p>
+    <p>Hver metaltype smeltes og laves til basismaterialer, som kan bruges til at fremstille f.eks. bildele og byggematerialer.</p>
+
+    <h2>Plast</h2>
+    <p>Hård og blød plast bliver sorteret, renset og smeltet om til små plastkugler, som kan bruges til at lave f.eks. havestole, shampooflasker, baljer, plastemballager og andre plastprodukter.</p>
+
+    <h2>Pap og papir</h2>
+    <p>Pap og papir bliver sorteret, så det kan genanvendes hver for sig.</p>
+    <p>Hvidt papir kan blive til nyt hvidt papir. Pap og blandet papir/pap kan blive til papkasser og emballage.</p>
+    <p>Ved at genanvende papir bliver der sparet vand, energi, kemikalier og cellulosefibre fra træ.</p>
+
+    <h2>Tekstilaffald</h2>
+    <p>Tekstilaffald bliver revet til fibre, som kan bruges til at lave nyt tøj, tæpper, lydisolering og fyld til hynder.</p>
+
+    <h2>Madaffald</h2>
+    <p>Madaffald bliver lavet til biogas og gødning til landbrugsjorden.</p>
+    <p>På den måde bliver der skabt energi, og vigtige næringsstoffer kommer tilbage i naturens kredsløb.</p>
+
+    <h2>Farligt affald</h2>
+    <p>Farligt affald bliver kørt til et sorteringsanlæg og videre til forskellige behandlingsanlæg.</p>
+    <p>Her bliver miljøskadelige indholdsstoffer fjernet, og genanvendelige råstoffer udvindes, så de kan bruges i nye produkter.</p>",false,dit_affald_goer_en_forskel,https://api.mediehuset.net/images/trashguide/articles/affald.jpg
+3,2024-06-06 12:28:02+00,Storskrald,Få hentet dit storskrald nemt og gratis.,"    <p><strong>Storskrald er dit ødelagte indbo.</strong></p>
+    <p>Dit storskrald bliver hentet gratis ved din bolig. Du skal bare bestille storskraldsbilen her på siden. Og så skal du have adresse i Aarhus kommune.</p>
+    <p><strong>Kan dine ting bruges igen af andre, så giv dem videre.</strong></p>
+    
+    <h2>Sådan gør du</h2>
+    <ol>
+        <li>Bestil storskraldsbilen. I bestillingen får du oplyst, hvornår storskraldsbilen kommer. Storskraldsordningen gælder for alle private borgere og grundejere i kommunen.</li>
+        <li>Sorter småting i klare poser/sække. Stort pap bundtes. Cykler, klapvogne og barnevogne skal mærkes ”storskrald”.</li>
+        <li>Stil storskraldet ud, hvor du bor. Tidligst aftenen før og senest kl. 6 på dagen, hvor storskraldsbilen kommer.</li>
+        <li>Du kan ændre eller aflyse din bestilling, indtil dagen før afhentningen.</li>
+    </ol>",true,storskrald,https://api.mediehuset.net/images/trashguide/articles/storskrald.jpg
+4,2024-06-19 12:32:29+00,Tips og tricks til affaldssortering,Hvordan bliver vi bedre til at sortere vores affald? Det spørgsmål giver sorteringsrådgiver Tim Vinther Sørensen fra AVV gode og konkrete råd på her i artiklen.,"    <p>Bæredygtig affaldssortering er en vigtig del af en miljøvenlig livsstil, som alle kan bidrage til fra deres eget hjem. Ved at sortere affald korrekt kan vi reducere mængden af affald, der ender på lossepladser, mindske forurening og spare ressourcer. Her er nogle praktiske tips og tricks, der kan hjælpe dig med at gøre affaldssorteringen mere effektiv og mindre besværlig.</p>
+    
+    <h2>1. Opdel Affaldet i Kategorier</h2>
+    <p>Den første og vigtigste regel for affaldssortering er at opdele affaldet i klare kategorier. De mest almindelige er:</p>
+    <ul>
+        <li><strong>Organisk affald</strong>: madrester, kaffegrums, æggeskaller, teposer osv.</li>
+        <li><strong>Plastik</strong>: plastikflasker, poser, emballage (sørg for, at det er rent og tørt).</li>
+        <li><strong>Papir og pap</strong>: aviser, æggebakker, papkasser osv.</li>
+        <li><strong>Glas</strong>: flasker, glasbeholdere (fjern låg og kapsler).</li>
+        <li><strong>Metal</strong>: dåser, låg, aluminiumfolie.</li>
+        <li><strong>Restaffald</strong>: det affald, som ikke kan genbruges, som bleer og støvsugerposer.</li>
+    </ul>
+    
+    <h2>2. Brug Flere Skraldespande</h2>
+    <p>Investér i flere skraldespande eller beholdere, som kan placeres side om side i dit køkken eller bryggers. Dette gør det nemt at sortere affaldet korrekt allerede i hjemmet. Brug klare mærkater eller farvekoder for at angive, hvad der skal i hvilken beholder.</p>
+    
+    <h2>3. Kompostering af Organisk Affald</h2>
+    <p>Organisk affald kan genbruges som næringsrig kompost til haven. Hvis du har plads, kan du overveje at lave en kompostbunke i haven eller investere i en kompostbeholder, som passer til små områder. Dette reducerer mængden af affald, der sendes til forbrænding, og giver dig samtidig gødning til planter.</p>
+    
+    <h2>4. Reducér Mængden af Affald</h2>
+    <p>Den bedste måde at håndtere affald på er at producere mindre af det. Køb varer med minimal emballage, genbrug beholdere, og undgå engangsprodukter. Overvej at bruge genanvendelige poser, flasker og madkasser for at reducere mængden af plastikaffald.</p>
+    
+    <h2>5. Tjek Lokale Regler</h2>
+    <p>Regler for affaldssortering varierer fra kommune til kommune. Sørg for at kende de lokale retningslinjer, så du ved præcis, hvordan forskellige typer affald skal håndteres i dit område. Mange kommuner tilbyder også ressourcer som foldere eller apps, der kan hjælpe med at sortere korrekt.</p>
+    
+    <h2>6. Rengør Emballage</h2>
+    <p>Inden du smider plastik, metal eller glas i genbrugsspanden, skal du sikre dig, at de er rengjorte. Dette forhindrer forurening af andre materialer i genbrugsprocessen og forbedrer kvaliteten af det genbrugte materiale.</p>
+    
+    <h2>7. Elektronisk Affald</h2>
+    <p>Elektronisk affald som gamle telefoner, batterier og ledninger skal ikke smides i restaffaldet. De indeholder skadelige stoffer, der kan forurene miljøet. Aflever dem i specielle affaldscontainere, som ofte findes i elektronikbutikker eller kommunale genbrugsstationer.</p>
+    
+    <h2>8. Brug Apps og Teknologi</h2>
+    <p>Der findes flere apps, der kan hjælpe dig med affaldssortering. De kan give dig oplysninger om, hvordan forskellige typer affald skal sorteres, og hvornår din næste affaldsindsamling er. Dette kan gøre processen nemmere og mere overskuelig.</p>
+    
+    <h2>9. Involvér Hele Husstanden</h2>
+    <p>Affaldssortering bør være en fælles opgave. Sørg for, at alle i husstanden er klar over, hvordan affaldet skal sorteres. Det kan være nyttigt at lave en synlig oversigt over, hvilken type affald der skal i hvilken beholder.</p>
+    
+    <h2>10. Tænk Bæredygtigt ved Indkøb</h2>
+    <p>Når du handler, så tænk over, hvordan de produkter, du køber, vil påvirke din affaldssortering. Vælg produkter med genanvendelig eller minimal emballage og undgå overflødige engangsprodukter.</p>
+    
+    <p>Ved at implementere disse tips og tricks i din daglige rutine kan du gøre en stor forskel for miljøet. Bæredygtig affaldssortering er ikke kun godt for planeten, men det kan også føre til et mere organiseret og bevidst hjem. Start i dag, og bidrag til en grønnere fremtid!</p>",false,tips_og_tricks,
+5,2024-04-10 12:52:20+00,"Affaldssorteringens betydning for det moderne miljø 
+","Affaldssortering spiller en stadig vigtigere rolle i beskyttelsen af vores miljø. I takt med at verdens befolkning vokser, og ressourcerne bliver mere knappe, er effektiv affaldshåndtering afgørende for at minimere miljøpåvirkningen og bevare naturens ressourcer for fremtidige generationer","<p>Ved at sortere affald korrekt i de forskellige fraktioner – såsom glas, papir, plast, metal og organisk affald – sikrer vi, at materialer kan genbruges og genanvendes. Dette reducerer behovet for at udvinde og forarbejde nye råstoffer, hvilket i sidste ende mindsker energiforbruget og CO<sub>2</sub>-udledningen. Samtidig reduceres mængden af affald, der ender på lossepladser, hvilket forhindrer forurening af jord og grundvand.</p>
+
+    <p>Affaldssortering bidrager også til den cirkulære økonomi, hvor materialer holdes i brug i længere tid. Dette er ikke kun godt for miljøet, men skaber også nye økonomiske muligheder og arbejdspladser inden for genanvendelsesindustrien.</p>
+
+    <p>Regeringen har derfor øget fokus på affaldssortering som en del af sin miljøpolitik. Nye love og reguleringer kræver, at både private husholdninger og virksomheder sorterer deres affald korrekt. Med hjælp fra de nationale affaldspiktogrammer, der nu pryder affaldsbeholdere over hele landet, er det blevet lettere for borgere at sortere deres affald rigtigt.</p>
+
+    <p>Eksperter understreger, at affaldssortering alene ikke er nok til at løse miljøproblemerne, men det er en essentiel del af en bredere indsats for at beskytte vores planet. Kombineret med andre tiltag, som at reducere forbrug, genbruge materialer og investere i vedvarende energi, kan affaldssortering gøre en betydelig forskel.</p>
+
+    <p>Det er op til os alle at tage ansvar og deltage aktivt i affaldssorteringen for at sikre en bæredygtig fremtid for kommende generationer.</p>",true,"affaldssorteringens_betydning_for_det_moderne_miljoe
+",https://api.mediehuset.net/images/trashguide/articles/miljoe.jpg
+6,2023-12-23 13:56:28+00,"Digitalt Affald: En overset miljøudfordring
+","I en verden, der bliver stadig mere digitaliseret, er digitalt affald en voksende bekymring, der ofte overses. ","<p>Mens vi er vant til at tænke på affald i form af fysiske genstande som plastik, papir og metal, udgør vores digitale liv også en betydelig miljømæssig byrde. Digitalt affald, også kendt som ""data waste"", refererer til de store mængder ubrugte data, overflødige filer, forældet software og elektroniske enheder, som ikke længere er i brug, men som stadig belaster vores digitale og fysiske miljø.</p>
+
+    <h2>Hvad er Digitalt Affald?</h2>
+    <p>Digitalt affald omfatter en bred vifte af elementer, herunder gamle e-mails, ubrugte cloud-lagringsfiler, duplikerede fotos og videoer, samt software, der ikke længere opdateres eller anvendes. Desuden tæller det også de elektroniske enheder, der bliver efterladt i skuffer og skabe – fra gamle smartphones til bærbare computere og tablets.</p>
+
+    <h2>Den Miljømæssige Belastning</h2>
+    <p>Selvom digitalt affald ikke fylder fysisk i vores affaldsbeholdere, har det stadig en betydelig miljøpåvirkning. Lagring af store mængder ubrugte data kræver enorme serverkapaciteter, hvilket medfører et betydeligt energiforbrug. De datacentre, der håndterer vores digitale affald, bruger enorme mængder elektricitet og bidrager dermed til øgede CO<sub>2</sub>-udledninger.</p>
+    <p>Elektronisk affald, eller e-affald, som gamle enheder og hardware også kaldes, er en anden vigtig komponent af digitalt affald. Hvis det ikke håndteres korrekt, kan e-affald lække farlige kemikalier som bly og kviksølv i miljøet, når det ender på lossepladser.</p>
+
+    <h2>Hvordan Kan Vi Reducere Digitalt Affald?</h2>
+    <p>At reducere digitalt affald kræver en bevidst indsats fra både individer og organisationer. Her er nogle skridt, vi alle kan tage:</p>
+    <ul>
+        <li><strong>Ryd op i dine digitale filer:</strong> Slet unødvendige filer, gamle e-mails og duplikatfotos regelmæssigt. Dette reducerer ikke kun den digitale belastning, men gør også dine enheder mere effektive.</li>
+        <li><strong>Optimer cloud-lagring:</strong> Brug cloud-lagring med omtanke. Flyt kun nødvendige filer til skyen og undgå at gemme store mængder data, som ikke bruges.</li>
+        <li><strong>Genbrug og genanvend elektroniske enheder:</strong> I stedet for at lade gamle enheder samle støv, kan du overveje at donere eller genanvende dem på en miljøvenlig måde.</li>
+        <li><strong>Opdater software:</strong> Hold dine programmer og apps opdaterede, og fjern de, du ikke længere bruger, for at mindske unødvendig digital belastning.</li>
+    </ul>
+
+    <h2>Fremtiden for Digitalt Affald</h2>
+    <p>Med den hastige teknologiske udvikling er det sandsynligt, at digitalt affald vil fortsætte med at vokse, medmindre vi aktivt tager skridt til at reducere det. Både virksomheder og enkeltpersoner skal tage ansvar for deres digitale forbrug og affaldshåndtering. Dette omfatter at investere i energieffektive datacentre, fremme genanvendelse af elektronik og øge bevidstheden om de miljømæssige konsekvenser af vores digitale liv.</p>
+
+    <p>Digitalt affald er måske ikke synligt på samme måde som plastikflasker eller papir, men det er en reel udfordring, der kræver vores opmærksomhed. Ved at handle nu kan vi mindske den digitale miljøpåvirkning og bidrage til en mere bæredygtig fremtid.</p>",true,digitalt_affald_en_overset_udfordring,https://api.mediehuset.net/images/trashguide/articles/digitalt-affald.jpg
+7,2024-08-21 13:00:25+00,Elbilen - en grøn løsning eller udfordring for miljøet?,"Elbiler bliver ofte fremhævet som en grøn løsning på transportområdet, og de spiller en vigtig rolle i overgangen til en mere bæredygtig fremtid. Men som med alle teknologier er der også udfordringer, når elbilerne når enden af deres levetid.","<p>Når elbiler bliver affald, står vi over for betydelige miljømæssige udfordringer, som kræver opmærksomhed og handling.</p>
+
+    <h2>Batteriernes Miljøpåvirkning</h2>
+    <p>En af de største miljømæssige udfordringer ved elbiler som affald er håndteringen af deres batterier. Elbilers batterier, ofte baseret på litium-ion-teknologi, indeholder en række sjældne og potentielt skadelige materialer, herunder litium, kobolt, nikkel og mangan. Hvis disse batterier ikke genanvendes korrekt, kan de lække giftige stoffer til miljøet, forurene jord og vand, og udgøre sundhedsrisici for mennesker og dyreliv.</p>
+    <p>Desuden kræver produktionen af nye batterier store mængder energi og ressourcer, hvilket kan medføre en betydelig CO<sub>2</sub>-udledning. Genbrug og korrekt bortskaffelse af gamle batterier er derfor afgørende for at minimere miljøpåvirkningen.</p>
+
+    <h2>Genanvendelse af Elbilskomponenter</h2>
+    <p>Ud over batterierne indeholder elbiler mange andre komponenter, der kræver særlig opmærksomhed ved bortskaffelse. Elektroniske systemer, motorer og andre dele kan indeholde sjældne metaller og komplekse materialer, som ikke altid er nemme at genanvende. Hvis disse komponenter ikke genbruges eller genanvendes korrekt, kan de ende på lossepladser, hvor de kan forurene miljøet.</p>
+    <p>Derfor er der behov for udvikling af effektive genanvendelsesteknologier og -processer, der kan udvinde og genbruge materialer fra elbiler på en miljøvenlig måde.</p>
+
+    <h2>Regulering og Ansvar</h2>
+    <p>Regeringer og bilproducenter har et fælles ansvar for at sikre, at elbiler håndteres korrekt ved slutningen af deres levetid. I mange lande er der allerede lovgivning på plads, der kræver, at bilproducenter tager ansvar for at indsamle og genanvende udtjente biler, inklusive deres batterier og elektroniske komponenter.</p>
+    <p>Producenter opfordres også til at designe biler med tanke på fremtidig genanvendelse, hvilket betyder, at de skal gøre det lettere at adskille og genbruge materialer. Øget fokus på cirkulær økonomi i bilindustrien er en vigtig faktor i at minimere miljøpåvirkningen af elbiler som affald.</p>
+
+    <h2>Fremtidens Løsninger</h2>
+    <p>For at tackle udfordringerne ved elbiler som affald, er der brug for innovation inden for både teknologi og politik. Udviklingen af nye batterityper, der er lettere at genanvende, samt forbedring af eksisterende genanvendelsesteknikker, er afgørende skridt mod en mere bæredygtig fremtid.</p>
+    <p>Derudover er det vigtigt, at forbrugerne bliver opmærksomme på de miljømæssige konsekvenser af deres køretøjer, også når de når slutningen af deres levetid. Korrekt bortskaffelse og genanvendelse af elbiler bør være en del af den samlede indsats for at reducere vores miljømæssige fodaftryk.</p>
+
+    <p>Elbiler er en vigtig del af løsningen på klimakrisen, men vi må ikke glemme de udfordringer, de medfører, når de bliver affald. Ved at tage ansvar for korrekt håndtering og genanvendelse kan vi sikre, at elbiler forbliver en bæredygtig løsning – ikke kun i deres levetid, men også derefter.</p>",true,elbilen_groen_loesning_eller_udfordring,https://api.mediehuset.net/images/trashguide/articles/elbiler.jpg
+8,2024-08-27 16:28:22+00,Mobilen som affald,"Mobiltelefoner er blevet en uundværlig del af vores hverdag. De følger os overalt, og mange skifter deres telefon ud hvert andet eller tredje år. Men hvad sker der egentlig med de gamle mobiltelefoner, når vi ikke længere bruger dem?","<p>Mobiltelefoner, der ender som affald, udgør en betydelig miljømæssig udfordring, og det er vigtigt at forstå, hvordan disse enheder håndteres.</p>
+
+    <h2>Elektronisk Affald: En voksende problematik</h2>
+    <p>Mobiltelefoner er en del af kategorien elektronisk affald, også kendt som e-affald. E-affald er en af de hurtigst voksende affaldstyper på verdensplan. Ifølge estimater bliver der hvert år smidt millioner af mobiltelefoner ud, og mange af dem ender på lossepladser, hvor de kan forårsage miljøforurening.</p>
+
+    <h2>Materialer i mobiltelefoner</h2>
+    <p>En mobiltelefon indeholder en række forskellige materialer, herunder plastik, glas, kobber, sølv, guld og sjældne jordarter. Disse materialer kan genbruges, men hvis telefonerne ikke håndteres korrekt, går disse værdifulde ressourcer tabt. Endnu værre, nogle af de materialer, der bruges i mobiltelefoner, kan være giftige og skade miljøet, hvis de ikke bortskaffes korrekt.</p>
+
+    <h2>Genbrug og Genanvendelse</h2>
+    <p>Når mobiltelefoner indsamles til genbrug, adskilles de i deres komponenter. Metaldele som kobber og guld udvindes og genanvendes til at producere nye produkter. Plast og glas kan også genanvendes, selvom processerne for at udvinde disse materialer kan være komplekse.</p>
+    <p>Desværre er genanvendelsesraten for mobiltelefoner stadig lav. Mange gamle telefoner ender i skuffer og skabe, hvor de bliver glemt, eller de smides ud med det almindelige husholdningsaffald. Dette fører til tab af værdifulde materialer og en stigning i e-affald.</p>
+
+    <h2>De Miljømæssige Konsekvenser</h2>
+    <p>Hvis mobiltelefoner ikke genanvendes korrekt, kan de udgøre en alvorlig trussel mod miljøet. Batterierne i mobiltelefoner indeholder giftige stoffer som bly, kviksølv og cadmium, som kan lække ud i jorden og forurene grundvandet. Desuden kan forbrænding af e-affald frigive farlige kemikalier i luften, hvilket kan påvirke både menneskers sundhed og miljøet.</p>
+
+    <h2>Hvad Kan Du Gøre?</h2>
+    <p>Som forbruger har du flere muligheder for at sikre, at din gamle mobiltelefon ikke ender som skadeligt affald:</p>
+    <ul>
+        <li><strong>Aflever telefonen til genbrug:</strong> Mange producenter og elektronikforhandlere tilbyder ordninger, hvor du kan aflevere din gamle telefon til genbrug.</li>
+        <li><strong>Donér eller sælg:</strong> Hvis telefonen stadig virker, kan du overveje at donere den til velgørenhed eller sælge den videre. Dette giver telefonen et nyt liv og mindsker behovet for nye enheder.</li>
+        <li><strong>Sikker bortskaffelse:</strong> Hvis din telefon er beskadiget og ikke kan genbruges, skal du sørge for, at den bortskaffes på et certificeret genbrugscenter, der kan håndtere e-affald korrekt.</li>
+    </ul>
+
+    <h2>Fremtiden for Mobiltelefoner som Affald</h2>
+    <p>For at tackle udfordringerne med mobiltelefoner som affald er der brug for en kombination af bedre genbrugssystemer, forbrugeruddannelse og strengere reguleringer. Producenter kan også bidrage ved at designe telefoner, der er lettere at adskille og genanvende, samt ved at bruge mere bæredygtige materialer.</p>
+    <p>Ved at tage ansvar for vores gamle mobiltelefoner kan vi alle bidrage til at reducere mængden af e-affald og beskytte miljøet for fremtidige generationer.</p>",true,mobilen_som_affald,https://api.mediehuset.net/images/trashguide/articles/mobiltelefoner.jpg

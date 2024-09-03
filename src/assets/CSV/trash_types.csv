@@ -1,0 +1,319 @@
+id,title
+1,Asfalt
+2,Asfaltpap
+3,Beton
+4,Jord
+5,Klinker
+6,Belægningssten
+7,Brosten
+8,Cement
+9,Parasolfødder (Beton)
+10,Havefliser
+11,Natursten
+12,Betontagsten
+13,Beskidte murerbaljer
+14,Eternit
+15,Isolering
+17,Tegl
+18,Brokker
+19,Gasbeton
+20,Leca
+21,Mørtel
+22,Tegl med mørtel
+23,Glaserede fliser
+24,Gips
+25,Gipsplader
+26,Vådrumsgips
+27,Gipsfigurer
+28,Kabler
+29,Troldtekt
+30,Stik
+31,Stikkontakter
+32,Glasuld
+33,Rockwool
+34,Stenuld
+35,Pap
+36,Mursten
+37,Teglsten
+38,Fugematerialer
+39,Sanitet
+40,Stentøj
+42,Tagpap
+43,Tagpap med træ
+44,Vindpap
+45,Håndvaske
+46,Toiletkummer
+47,Toiletter
+48,Badekar
+49,Keramik
+50,Porcelæn
+51,Stålvaske
+52,Akvarier
+53,Bilruder
+54,Drivhusglas
+55,Glas i skifterammer
+56,Spejle
+57,Spejlglas
+58,Vinduer
+59,Vinduesglas
+60,Vinduesglas med og uden ramme
+61,Blyindfattede ruder
+62,Termoruder med PCB risiko
+63,Aske
+64,Badebassiner
+65,Bruseforhæng
+66,Tisseunderlag
+67,Asbest
+68,Maling
+69,Bærbare computere
+70,Fjernsyn (Fladskærm)
+71,Fladskærme
+72,iPads
+73,Tablets
+74,Printere
+75,Stationære computere
+76,Telefoner
+77,Højtryksrensere over 120 cm
+78,Keramiske kogeplader
+79,Komfurer
+80,Kopimaskiner
+81,Opvaskemaskiner
+82,Tørretumblere
+83,Vaskemaskiner
+84,Frysere
+85,Højtryksrensere under 120 cm
+86,Køleskabe
+87,Dybfrysere
+88,Fadølsanlæg
+89,Kummefrysere
+90,Svaleskabe
+91,El-ledninger
+92,Kabeltromle
+94,Ledninger
+95,Stikdåser
+96,Blækpatroner
+97,Farvepatroner
+98,Kopimaskinetoner
+99,Lasertoner
+100,Printerpatroner
+101,Tromler
+102,Billedrør
+103,Skærme med billedrør
+104,TV med billedrør
+105,Emhætter
+107,Mikrobølgeovne
+108,Mikroovne
+109,Paraboler
+110,Stationære PC'ere
+111,Pladespillere
+113,Støvsugere
+114,Barbermaskiner
+115,Blender
+116,Brødrister
+117,Cykellygter
+118,Elelktrisk værktøj
+119,Fjernbetjeninger
+120,Kaffemaskiner
+121,Lamper
+122,Mobiltelefoner
+123,Routere
+124,Strygejern
+125,Ure
+126,Batterier
+128,Asbestplader
+130,Eternitplader
+131,Fibercement
+132,Alkaliske batterier
+133,Genopladelige batterier
+134,Kviksølvbatterier
+135,Lithiumbatterier
+136,Bilbatterier
+137,Cykelbatterier
+138,Plastikposer
+139,Knallertbatterier
+140,Motorcykelbatterier
+141,Opladere
+142,Elpærer
+143,Glødepærer
+144,Halogen
+145,Lysstofrør under 60 cm
+146,Sparepærer
+147,Udladningslamper
+148,Lysstofrør over 60 cm
+149,Acetone
+151,Afløbsrens
+152,Benzin
+153,Borsyre
+155,Deodorant
+156,Farvefjerner
+157,Fernis
+158,Gasflasker
+159,Håndsprit
+160,Kemikalier
+161,Køleelementer
+162,Lak
+163,Lim
+164,Madolie til friture
+165,Maling og malerspande
+166,Motorolie
+167,Neglelak
+168,Fyrværkeri
+169,Petroleum
+170,Rottegift
+171,Spraydåser
+172,Syre
+173,Toiletrens
+174,Kanyler
+175,Medicin
+176,Trykflasker
+178,Lysstofrør
+179,Armatur til lysstofrør
+180,Grillpatroner
+181,Heliumflasker
+182,Pulver- og skumslukkere
+183,Campinggas
+184,Gasdåser
+185,Lattergaspatroner
+186,Drikkeglas
+187,Glasflasker
+188,Glasskår
+189,Syltetøjsglas
+190,Medicinglas
+191,Metallåg
+192,Blade
+193,Blomster
+194,Buske
+195,Rødder
+196,Træer
+197,Brænde
+198,Juletræer
+199,Juledekorationer
+200,Urtepotter (Keramik)
+201,Urtepotter (Plastik)
+202,Muldjord
+203,Sandjord
+204,Pottemuld
+205,Forurenet jord
+206,Græs
+207,Hækafklip
+208,Drikkedåser
+209,Sodavandsdåser
+210,Øldåser
+211,Konservesdåser
+212,Alufolie
+213,"Aluminium, småt"
+214,"Aluminium, stort"
+216,Barberblade
+217,Brændeovne
+218,Cykler
+219,Fyrfadslys (Metalbeholderen)
+220,Kaffekapsler
+221,Stegepander
+222,Radiatorer
+223,Tørrestativer
+224,Ølkapsler
+225,Jern
+226,Bølgepap
+227,Karton
+228,Papkasser
+229,Rudekuverter
+230,Æggebakker (pap)
+231,Æsker
+232,Drikkekartoner
+233,Juicekartoner
+234,Madkartoner
+235,Mælkekartoner
+236,Yoghurtkartoner
+237,Bøger
+238,Hardback
+239,Leksikon
+240,Paperback
+241,Telefonbøger
+242,Ringbind
+243,Magasiner
+244,Gavepapir
+245,Aviser
+246,Breve
+247,Fotopapir
+248,Indpakningspapir
+249,Konvolutter
+250,Reklamer
+251,Tegneserier
+252,Papir til makulering (F.eks. på grund af persondata og rimeligt irriterende lange titler)
+253,Duge
+254,Gardiner
+255,Håndklæder
+256,Lædervarer
+257,Sengetøj
+258,Tøj
+259,Hullede sokker
+260,Enlige sokker
+261,Trøjer med TECHCOLLEGE tryk
+262,Dyner
+263,Puder
+264,Sko
+265,Kunstlæder
+266,Træ
+267,Køkkenskabe
+268,Lamineret træ
+269,MDF
+270,Spånplader
+271,Træmøbler
+272,Lakeret træ
+273,Engangspaller
+274,Europaller
+275,Halvpaller
+276,Plastpaller
+277,Havehegn
+278,Flethegn
+279,Imprægnerede pæle
+280,Imprægnerede stolper
+281,Imprægneret træ
+282,Jernbanesveller
+283,Trykimprægneret brædder
+284,Udendørs træ
+285,Affaldssække
+286,Blød plast
+287,Bobleplast
+288,Plastfolie (Vitawrap)
+289,Sorte affaldssække
+290,Presenninger
+291,Hård plast
+292,Poser fra haveaffald
+293,Dæk
+294,Bildæk
+295,Knallertdæk
+296,Lastbildæk
+297,Motorcykeldæk
+298,Traktordæk
+299,Trillebørdæk
+300,Cykelslange
+301,Cykeldæk
+302,Flamingo
+303,Flamingoemballage
+304,Flamingokasser
+305,Hvid flamingo
+306,Flamingooplader (Isolering)
+307,Beskidt flamingo
+308,Kapilærkasser
+309,Flamingochips
+310,PVC plastrør
+311,PVC tagrender
+312,PVC kloakrør
+313,Trapezplader
+314,Gummistøvler
+315,Vinylgulve
+316,Plast med symbolet 1
+317,Plastflasker (PET)
+318,Pålægsbakker (PET)
+319,Plastlåg (PET)
+320,Sodavandsflasker
+321,Vindruebakker
+322,Æggebakker (Plast)
+323,Kødbakker
+324,Dunke fra motorolie og kemikalier
+325,Havemøbler (Plast)
+326,Plastikstole
+327,Plastikborde
+328,Hyndebokse
+329,Plasthavemøbler (med metal)

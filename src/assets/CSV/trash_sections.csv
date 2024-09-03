@@ -1,0 +1,13 @@
+id,title,description,color,image_url
+1,Byggeri,"Byggematerialer, vinduer og døre",004679,https://api.mediehuset.net/images/trashguide/categories/byggeri.jpg
+2,Deponi,Til nedgravning,2B2C2E,https://api.mediehuset.net/images/trashguide/categories/deponi.jpg
+3,Elektronik,"Køkkenmaskiner, musikanlæg og kabler",F18700,https://api.mediehuset.net/images/trashguide/categories/elektronik.jpg
+4,Farligt,Batterier og kemikalier,E30620,https://api.mediehuset.net/images/trashguide/categories/farligt-affald.png
+5,Glas,Glas og flasker,28A745,https://api.mediehuset.net/images/trashguide/categories/glas.png
+6,Natur,"Græs, jord og grene",06682D,https://api.mediehuset.net/images/trashguide/categories/natur.jpg
+7,Metal,Heavy affald & dødsmetal,607179,https://api.mediehuset.net/images/trashguide/categories/metal.png
+8,Pap,Flyttekasser og fagbøger,C4A167,https://api.mediehuset.net/images/trashguide/categories/pap.png
+9,Papir,Aviser og reklamer,017EC0,https://api.mediehuset.net/images/trashguide/categories/papir-og-aviser.jpg
+10,Tekstiler,Tøj som ikke passer ind,951C3F,https://api.mediehuset.net/images/trashguide/categories/tekstil.png
+11,Træ,Møbler og makværk,7F652B,https://api.mediehuset.net/images/trashguide/categories/trae.jpg
+12,Plastik,Ting som nok ikke skal brænde,7F652B,https://api.mediehuset.net/images/trashguide/categories/plast.png

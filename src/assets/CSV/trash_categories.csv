@@ -1,0 +1,46 @@
+id,section_id,title,icon_url,image_url
+1,1,Asfalt,https://api.mediehuset.net/images/trashguide/icons/asfalt.svg,https://api.mediehuset.net/images/trashguide/categories/asfalt.jpg
+2,1,Beton,https://api.mediehuset.net/images/trashguide/icons/beton.svg,https://api.mediehuset.net/images/trashguide/categories/beton-og-natursten.jpg
+3,1,Murbrokker,https://api.mediehuset.net/images/trashguide/icons/brokker.svg,https://api.mediehuset.net/images/trashguide/categories/brokker.jpg
+4,1,Gips,https://api.mediehuset.net/images/trashguide/icons/gips.svg,https://api.mediehuset.net/images/trashguide/categories/gips.jpg
+5,1,Glasuld & Stenuld,https://api.mediehuset.net/images/trashguide/icons/glasuld-stenuld_ut.svg,https://api.mediehuset.net/images/trashguide/categories/rockwool-og-glasuld.jpg
+6,1,Mursten & Tegl,https://api.mediehuset.net/images/trashguide/icons/mursten-og-tegl.svg,https://api.mediehuset.net/images/trashguide/categories/mursten-og-tegl.jpg
+7,1,Tagpap,https://api.mediehuset.net/images/trashguide/icons/tagpap.svg,https://api.mediehuset.net/images/trashguide/categories/tagpap.jpg
+8,1,Toiletter & Håndvaske,https://api.mediehuset.net/images/trashguide/icons/toiletter-og-haandvaske.svg,https://api.mediehuset.net/images/trashguide/categories/toiletter-og-haandvaske.jpg
+9,1,Vinduer,https://api.mediehuset.net/images/trashguide/icons/vinduer.svg,https://api.mediehuset.net/images/trashguide/categories/vinduer.jpg
+10,2,Deponi,https://api.mediehuset.net/images/trashguide/icons/deponi.svg,https://api.mediehuset.net/images/trashguide/categories/deponi.jpg
+11,3,Fladskærme & bærbare,https://api.mediehuset.net/images/trashguide/icons/deponi.svg,https://api.mediehuset.net/images/trashguide/categories/fladskaerme-og-baerbare.jpg
+12,3,Komfurer & Vaskemaskiner,https://api.mediehuset.net/images/trashguide/icons/komfurer-og-vaskemaskiner.svg,https://api.mediehuset.net/images/trashguide/categories/komfurer-vaskemaskiner.jpg
+13,3,Køleskabe & Frysere,https://api.mediehuset.net/images/trashguide/icons/koeleskabe-frysere.svg,https://api.mediehuset.net/images/trashguide/categories/koeleskabe-frysere.jpg
+14,3,Ledninger & Kabler,https://api.mediehuset.net/images/trashguide/icons/ledninger-og-kabler.svg,https://api.mediehuset.net/images/trashguide/categories/ledninger-og-kabler.jpg
+15,3,Printerpatroner,https://api.mediehuset.net/images/trashguide/icons/printerpatroner.svg,https://api.mediehuset.net/images/trashguide/categories/printerpatroner.jpg
+16,3,Skærme med billedrør,https://api.mediehuset.net/images/trashguide/icons/skaerme-med-billedroer.svg,https://api.mediehuset.net/images/trashguide/categories/skaerme-med-billedroer.jpg
+17,3,Mellemstort elektronik (50-120 cm),https://api.mediehuset.net/images/trashguide/icons/mellemstort-elektronik.svg,https://api.mediehuset.net/images/trashguide/categories/mellemstort-elektronik-50-120cm.jpg
+18,3,Småt elektronik (under 50 cm),https://api.mediehuset.net/images/trashguide/icons/smaat-elektronik.svg,https://api.mediehuset.net/images/trashguide/categories/smaat-elektronik-u-50cm.jpg
+19,4,Asbest,https://api.mediehuset.net/images/trashguide/icons/asbest.svg,https://api.mediehuset.net/images/trashguide/categories/asbest.jpg
+20,4,Batterier,https://api.mediehuset.net/images/trashguide/icons/batterier.svg,https://api.mediehuset.net/images/trashguide/categories/batterier.jpg
+21,4,Bilbatterier,https://api.mediehuset.net/images/trashguide/icons/bilbatterier.svg,https://api.mediehuset.net/images/trashguide/categories/bilbatterier.jpg
+22,4,Elpærer,https://api.mediehuset.net/images/trashguide/icons/elpaerer.svg,https://api.mediehuset.net/images/trashguide/categories/elpaerer.jpg
+23,4,Farligt affald,https://api.mediehuset.net/images/trashguide/icons/farligt-affald.svg,https://api.mediehuset.net/images/trashguide/categories/farligt-affald.png
+24,4,Lysstofrør,https://api.mediehuset.net/images/trashguide/icons/lysstofroer.svg,https://api.mediehuset.net/images/trashguide/categories/lysstofroer.jpg
+25,4,Trykflasker,https://api.mediehuset.net/images/trashguide/icons/trykflasker.svg,https://api.mediehuset.net/images/trashguide/categories/trykflasker.jpg
+26,5,Flasker,https://api.mediehuset.net/images/trashguide/icons/flasker.svg,https://api.mediehuset.net/images/trashguide/categories/glas.jpg
+27,6,Haveaffald,https://api.mediehuset.net/images/trashguide/icons/haveaffald.svg,https://api.mediehuset.net/images/trashguide/categories/natur.jpg
+28,6,Jord,https://api.mediehuset.net/images/trashguide/icons/jord.svg,https://api.mediehuset.net/images/trashguide/categories/jord.jpg
+29,7,Drikkedåser,https://api.mediehuset.net/images/trashguide/icons/drikkedaaser.svg,https://api.mediehuset.net/images/trashguide/categories/drikkedaaser.jpg
+30,7,Jern & Metal,https://api.mediehuset.net/images/trashguide/icons/metal.svg,https://api.mediehuset.net/images/trashguide/categories/jern-og-metal.jpg
+31,8,Pap,https://api.mediehuset.net/images/trashguide/icons/pap.svg,https://api.mediehuset.net/images/trashguide/categories/pap.jpg
+32,8,Mad & Drikkekartoner,https://api.mediehuset.net/images/trashguide/icons/mad-og-drikkekartoner.svg,https://api.mediehuset.net/images/trashguide/categories/mad-og-drikkekartoner.png
+33,9,Bøger,https://api.mediehuset.net/images/trashguide/icons/boeger.svg,https://api.mediehuset.net/images/trashguide/categories/boeger.jpg
+34,9,Papir & Aviser,https://api.mediehuset.net/images/trashguide/icons/papir-og-aviser.svg,https://api.mediehuset.net/images/trashguide/categories/papir-og-aviser.jpg
+35,9,Papir til makulering,https://api.mediehuset.net/images/trashguide/icons/papir-til-makulering.svg,https://api.mediehuset.net/images/trashguide/categories/papir-og-aviser.jpg
+36,10,Tekstiler,https://api.mediehuset.net/images/trashguide/icons/tekstiler.svg,https://api.mediehuset.net/images/trashguide/categories/tekstiler.jpg
+37,11,Træ,https://api.mediehuset.net/images/trashguide/icons/indendoers-trae.svg,https://api.mediehuset.net/images/trashguide/categories/indendoers-trae.jpg
+38,11,Paller,https://api.mediehuset.net/images/trashguide/icons/paller.svg,https://api.mediehuset.net/images/trashguide/categories/paller.jpg
+39,11,Trykimpregneret træ,https://api.mediehuset.net/images/trashguide/icons/udendoers-trae.svg,https://api.mediehuset.net/images/trashguide/categories/udendoers-trae.jpg
+40,12,Blød plast,https://api.mediehuset.net/images/trashguide/icons/bloed-plast.svg,https://api.mediehuset.net/images/trashguide/categories/bloed-plast.jpg
+41,12,Dæk,https://api.mediehuset.net/images/trashguide/icons/daek.svg,https://api.mediehuset.net/images/trashguide/categories/daek.jpg
+42,12,Flamingo,https://api.mediehuset.net/images/trashguide/icons/flamingo.svg,https://api.mediehuset.net/images/trashguide/categories/flamingo.jpg
+43,12,Hård PVC,https://api.mediehuset.net/images/trashguide/icons/haard-pvc.svg,https://api.mediehuset.net/images/trashguide/categories/haard-pvc.jpg
+44,12,PET-flasker,https://api.mediehuset.net/images/trashguide/icons/pet-plast.svg,https://api.mediehuset.net/images/trashguide/categories/pet-flasker.jpg
+45,12,Plasthavemøbler,https://api.mediehuset.net/images/trashguide/icons/plasthavemoebler.svg,https://api.mediehuset.net/images/trashguide/categories/plasthavemoebler.jpg
