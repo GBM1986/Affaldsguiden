@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'outer-gradient': 'linear-gradient(180deg, #06682D 0%, #FFFFFF 100%)',
+        'inner-gradient': 'linear-gradient(180deg, #000000 26%, rgba(255, 255, 255, 0) 83.5%)',
+      },
       colors: {
         depone: '#2B2C2E',
         smatBraendbart: '#6666CC',

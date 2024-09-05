@@ -5,9 +5,9 @@ import { AiOutlineInstagram, AiOutlineLinkedin, AiOutlineFacebook } from 'react-
 
 export const Footer = () => {
   return (
-    <footer className="relative w-full h-auto">
+    <footer className="relative w-full mt-20">
       {/* Content */}
-      <div className="relative z-10 flex flex-col gap-6 px-4 py-10 sm:px-6 md:px-10 lg:px-16">
+      <div className="relative z-10 flex flex-col justify-between h-full gap-6 px-4 pt-[300px] pb-20  sm:px-6 md:px-10 lg:px-16">
         <div className="flex flex-col gap-6 md:flex-row md:justify-between items-center">
           {/* Section 1 */}
           <section className='flex flex-col gap-2 text-center md:text-left'>

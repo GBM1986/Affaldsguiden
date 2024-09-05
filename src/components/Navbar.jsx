@@ -8,7 +8,7 @@ export const Navbar = () => {
 
   // Mobile menu content
   const mobileMenu = (
-    <div className="absolute left-0 right-0 bg-white z-20 p-4 xl:hidden">
+    <div className="absolute left-0 right-0  bg-white z-20 p-4 xl:hidden">
       <ul className="text-lg">
         <li className="py-2 border-b border-mossGreen hover:bg-kaki transition">
           <Link to="/" onClick={() => setIsMobileMenuOpen(false)}>FORSIDE</Link>
@@ -33,7 +33,7 @@ export const Navbar = () => {
     <nav className="relative border-y-2 border-solid border-mossGreen">
       {/* Mobile Menu Toggle Button */}
       <button
-        className="xl:hidden text-mossGreen text-2xl absolute top-4 right-4 z-30"
+        className="xl:hidden text-black text-2xl absolute top-4 right-4 z-30"
         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
       >
         {isMobileMenuOpen ? <FaTimes /> : <CiMenuBurger />}

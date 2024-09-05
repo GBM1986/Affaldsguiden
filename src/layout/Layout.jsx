@@ -10,7 +10,7 @@ export const Layout = () => {
       <Header />
 
       {/* Main Content */}
-      <main className="flex-1 p-4 h-screen">
+      <main className="flex-1 h-screen">
         <Outlet />
       </main>
 
