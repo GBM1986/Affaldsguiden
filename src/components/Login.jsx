@@ -25,11 +25,12 @@ export const Login = () => {
   const isLoggedIn = loginData && loginData.user;
 
   return (
-    <div className="p-4">
+    <div className='bg-gradient-to-b from-natur to-white'>
+        <div className="h-screen bg-gradient-to-b from-lightGreen to-white w-[1440px] mx-auto p-10">
       {!isLoggedIn ? (
         <>
-          <h2 className="text-heading-2 font-bold mb-4">Login</h2>
-          <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
+          <h2 className="text-heading-2 font-semibold mb-4">Login</h2>
+          <form onSubmit={handleSubmit(onSubmit)} className="w-[490px] space-y-4">
             <div>
               <label className="block mb-2">Email</label>
               <input
@@ -48,16 +49,26 @@ export const Login = () => {
               />
               {errors.password && <p className="text-red-500">{errors.password.message}</p>}
             </div>
-            <button type="submit" className="bg-forrestGreen text-white px-4 py-2 rounded-md hover:bg-deepGreen">
-              Login
-            </button>
+            <div className='flex justify-end mt-4'>
+                <button
+                  type="submit"
+                  className="bg-forrestGreen text-white px-4 py-2 rounded-md hover:bg-deepGreen"
+                >
+                  Login
+                </button>
+              </div>
           </form>
+          <div className='flex flex-col space-y-2 mt-20' > 
+            <a ahref="#" className='text-forrestGreen hover:text-deepGreen cursor-pointer  underline'>Opret ny bruger</a>
+            <a ahref="#" className='text-forrestGreen hover:text-deepGreen cursor-pointer underline'>Glemt password?</a>
+          </div>
         </>
       ) : (
         <div className='max-w-md mx-auto'>
           <p className='mt-4 p-2 border rounded-md bg-green-100 text-green-800'>{loginMessage}</p>
         </div>
       )}
+      </div>
     </div>
   );
 };

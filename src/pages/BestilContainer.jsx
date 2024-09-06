@@ -75,13 +75,35 @@ export const BestilContainer = () => {
   if (loading) return <p>Loading container types...</p>;
 
   return (
-    <div className='flex flex-col items-center justify-center bg-gradient-to-b from-lightGreen to-white h-screen mb-20'>
-      <h1 className='text-2xl font-bold mb-6'>Bestil Container</h1>
-      <form className='w-full max-w-md bg-white p-6 shadow-lg rounded' onSubmit={handleSubmit(onSubmit)}>
+    <div className='flex flex-col items-center justify-center bg-gradient-to-b from-natur to-white h-screen mb-20'>
+      <div className=" min-h-screen bg-gradient-to-b from-lightGreen to-white w-[1440px] mx-auto p-10">
+      <h1 className='text-heading-1 font-semibold text-deepGreen mb-6 '>Bestil affaldscontainer</h1>
+      <p className='text-body text-forrestGreen mb-6'>Hvis I mangler en affaldscontainer i din husstand kan du bestille en  ved at udfylde og sende formularen herunder.</p>
+
+      <form className='w-full max-w-md p-6' onSubmit={handleSubmit(onSubmit)}>
         <div className='mb-4'>
-          <label className='block mb-2' htmlFor='name'>Navn:</label>
+
+        <div className='mb-6'>
+          <label className='block mb-2'>Vælg en container type:</label>
+          <div className='flex space-x-4'>
+            {containerTypes.map((type) => (
+              <div
+                key={type.id}
+                className={`w-[128px] p-4 border rounded-md shadow-lg ${selectedContainer === type.id ? 'border-mossGreen bg-mossGreen ' : 'border-gray-300 hover:border-lightGreen hover:bg-lightGreen'} cursor-pointer`}
+                onClick={() => handleContainerClick(type.id)}
+              >
+                <div dangerouslySetInnerHTML={{ __html: type.icon_svg }} />
+                <p className='text-center'>{type.name}</p>
+              </div>
+            ))}
+          </div>
+          {selectedContainer === null && <p className='text-red-600 text-sm'>Please select a container type</p>}
+          <p className='mt-10'>Containeren leveres til</p>
+        </div>
+          <label className='block mb-2' htmlFor='name'></label>
           <input
             className='w-full p-2 border border-gray-300 rounded'
+            placeholder='Indtast dit navn'
             type='text'
             id='name'
             {...register('name', { required: 'Navn is required' })}
@@ -90,9 +112,10 @@ export const BestilContainer = () => {
         </div>
 
         <div className='mb-4'>
-          <label className='block mb-2' htmlFor='address'>Adresse:</label>
+          <label className='block mb-2' htmlFor='address'></label>
           <input
             className='w-full p-2 border border-gray-300 rounded'
+            placeholder='Indtast din adresse'
             type='text'
             id='address'
             {...register('address', { required: 'Adresse is required' })}
@@ -101,9 +124,10 @@ export const BestilContainer = () => {
         </div>
 
         <div className='mb-4'>
-          <label className='block mb-2' htmlFor='postalCode'>Postnummer:</label>
+          <label className='block mb-2' htmlFor='postalCode'></label>
           <input
             className='w-full p-2 border border-gray-300 rounded'
+            placeholder='Indtast din postnummer'
             type='text'
             id='postalCode'
             {...register('postalCode', { required: 'Postnummer is required' })}
@@ -112,9 +136,10 @@ export const BestilContainer = () => {
         </div>
 
         <div className='mb-4'>
-          <label className='block mb-2' htmlFor='city'>By:</label>
+          <label className='block mb-2' htmlFor='city'></label>
           <input
             className='w-full p-2 border border-gray-300 rounded'
+            placeholder='Indtast navn på din by'
             type='text'
             id='city'
             {...register('city', { required: 'By is required' })}
@@ -123,9 +148,10 @@ export const BestilContainer = () => {
         </div>
 
         <div className='mb-4'>
-          <label className='block mb-2' htmlFor='email'>Email:</label>
+          <label className='block mb-2' htmlFor='email'></label>
           <input
             className='w-full p-2 border border-gray-300 rounded'
+            placeholder='Indtast din email'
             type='email'
             id='email'
             {...register('email', {
@@ -140,9 +166,10 @@ export const BestilContainer = () => {
         </div>
 
         <div className='mb-4'>
-          <label className='block mb-2' htmlFor='phone'>Telefon:</label>
+          <label className='block mb-2' htmlFor='phone'></label>
           <input
             className='w-full p-2 border border-gray-300 rounded'
+            placeholder='Indtast din telefonnummer'
             type='tel'
             id='phone'
             {...register('phone', {
@@ -156,30 +183,17 @@ export const BestilContainer = () => {
           {errors.phone && <p className='text-red-600 text-sm'>{errors.phone.message}</p>}
         </div>
 
-        <div className='mb-6'>
-          <label className='block mb-2'>Vælg en container type:</label>
-          <div className='flex space-x-4'>
-            {containerTypes.map((type) => (
-              <div
-                key={type.id}
-                className={`p-4 border ${selectedContainer === type.id ? 'border-deepGreen' : 'border-gray-300'} cursor-pointer`}
-                onClick={() => handleContainerClick(type.id)}
-              >
-                <div dangerouslySetInnerHTML={{ __html: type.icon_svg }} />
-                <p className='text-center'>{type.name}</p>
-              </div>
-            ))}
-          </div>
-          {selectedContainer === null && <p className='text-red-600 text-sm'>Please select a container type</p>}
-        </div>
+      
 
         <button
-          className='w-full bg-deepGreen text-white py-2 rounded hover:bg-forrestGreen'
+          className=' bg-deepGreen text-white py-2 px-8 rounded hover:bg-forrestGreen'
           type='submit'
         >
-          Submit Order
+          Send
         </button>
       </form>
+      </div>  
     </div>
+    
   );
 };

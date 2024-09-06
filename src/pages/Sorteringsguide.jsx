@@ -28,8 +28,12 @@ export const Sorteringsguide = () => {
     }, [supabase]);
 
     return (
+        <>
+        
         <div className='bg-gradient-to-b from-natur to-white'>
-        <div className="flex justify-center items-center min-h-screen bg-gradient-to-b from-lightGreen to-white w-[1440px] mx-auto">
+        <div className="bg-gradient-to-b from-lightGreen to-white w-[1440px] mx-auto">
+            <h1 className='text-heading-2 text-mossGreen font-semibold mb-4 pt-10 pl-24'>Sorteringsguide</h1>
+            <p className='text-heading-4 text-forrestGreen mb-4 font-semibold pl-24'>Vælg en sektion</p>
             <div className="grid grid-cols-2 gap-x-4 gap-y-8 place-items-center">
             {/* Render Trash Sections */}
             {trashSections.length > 0 ? (
@@ -62,5 +66,6 @@ export const Sorteringsguide = () => {
             </div>
         </div>
     </div>
+    </>
     );
 };
